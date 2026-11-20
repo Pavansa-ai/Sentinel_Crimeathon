@@ -426,9 +426,9 @@ SENTINEL demonstrates how organizations can move beyond basic API-key authentica
 
 ---
 
-## 12. Team
+## 12. Team ZeroTrace
 
 **Project:** SENTINEL  
 **Event:** CRIMEATHON 2026  
-**Team Members:** Add your six team members' names here.
+
 
